@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1683364278 source:d:\khang\ds_assignment\main.cpp
+	"header.h"
+
+1682925451 d:\khang\ds_assignment\header.h
+	<iostream>
+	<string>
+	<algorithm>
+	<stack>
+	<list>
+	<math.h>
+
+1683346960 source:d:\khang\ds_assignment\test.cpp
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1683474037 source:d:\khang\ds_assignment\logicexpression.cpp
+	"header.h"
+
